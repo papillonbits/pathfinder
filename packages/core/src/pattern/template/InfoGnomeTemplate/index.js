@@ -1,0 +1,1 @@
+export { InfoGnomeTemplate } from './InfoGnomeTemplate'
