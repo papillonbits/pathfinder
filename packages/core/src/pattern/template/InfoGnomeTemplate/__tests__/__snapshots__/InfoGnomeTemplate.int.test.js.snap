@@ -1,0 +1,249 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`<InfoGnomeTemplate /> Render must match regular() 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="alert"
+    >
+      <div
+        class="flash-messages"
+      >
+        <div
+          class="flash flash-success"
+        >
+          <mock-file
+            aria-hidden="true"
+            class="mr-2"
+            height="16"
+            role="img"
+            style="display: inline-block; fill: currentcolor; user-select: none; vertical-align: text-bottom;"
+            viewbox="0 0 16 16"
+            width="16"
+          />
+          Ready...
+        </div>
+      </div>
+    </div>
+    <div
+      class="navigator"
+    >
+      <div
+        class="navigatorHeading Subhead"
+      >
+        <div
+          class="Subhead-heading"
+        >
+          List Gnomes
+        </div>
+      </div>
+      <div
+        class="tabnav"
+      >
+        <nav
+          aria-label="List Gnomes"
+          class="tabnav-tabs"
+        >
+          <a
+            aria-current="page"
+            class="tabnav-tab"
+            data-discover="true"
+            href="/list"
+          >
+            List Gnomes
+          </a>
+          <a
+            class="tabnav-tab"
+            data-discover="true"
+            href="/info"
+          >
+            Info Gnomes
+          </a>
+        </nav>
+      </div>
+      <div
+        class="navigatorHeading Subhead"
+      >
+        <div
+          class="Subhead-heading"
+        >
+          Info Gnomes
+        </div>
+      </div>
+    </div>
+    <div
+      class="content"
+    >
+      <div
+        class="contentDisplay"
+      >
+        <div
+          class="contentDisplayEdit"
+        >
+          <div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Name"
+              >
+                Name
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Malbin Chromerocket"
+              >
+                Malbin Chromerocket
+              </span>
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Age"
+              >
+                Age
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: 166"
+              >
+                166
+              </span>
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Height"
+              >
+                Height
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: 106.14"
+              >
+                106.14
+              </span>
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Weight"
+              >
+                Weight
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: 35.89"
+              >
+                35.89
+              </span>
+            </div>
+          </div>
+          <div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Hair Color"
+              >
+                Hair Color
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Red"
+              >
+                Red
+              </span>
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Professions"
+              >
+                Professions
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Cook | Baker | Miner"
+              >
+                Cook | Baker | Miner
+              </span>
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Friends"
+              >
+                Friends
+              </span>
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Fizwood Voidtossle"
+              >
+                Fizwood Voidtossle
+              </span>
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Thumbnail"
+              >
+                Thumbnail
+              </span>
+              <a
+                href="http://www.publicdomainpictures.net/pictures/30000/nahled/maple-leaves-background.jpg"
+                target="_blank"
+              >
+                <span
+                  class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                  title="Label: maple-leaves-background.jpg"
+                >
+                  maple-leaves-background.jpg
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="alert"
+    >
+      <div
+        class="flash-messages"
+      >
+        <div
+          class="flash flash-success"
+        >
+          <mock-file
+            aria-hidden="true"
+            class="mr-2"
+            height="16"
+            role="img"
+            style="display: inline-block; fill: currentcolor; user-select: none; vertical-align: text-bottom;"
+            viewbox="0 0 16 16"
+            width="16"
+          />
+          Ready...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
