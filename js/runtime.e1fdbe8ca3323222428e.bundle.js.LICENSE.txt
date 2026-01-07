@@ -1,0 +1,6 @@
+/*!
+ * @project        pathfinder
+ * @name           runtime.e1fdbe8ca3323222428e.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2026 MTS
+ */
