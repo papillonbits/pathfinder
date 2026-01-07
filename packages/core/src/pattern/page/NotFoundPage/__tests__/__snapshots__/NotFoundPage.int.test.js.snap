@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`<NotFoundPage /> Render must match async 1`] = `<div />`;
+
+exports[`<NotFoundPage /> Render must match regular 1`] = `
+<div>
+  <div
+    class="alert"
+  >
+    <div
+      class="flash-messages"
+    >
+      <div
+        class="flash flash-error"
+      >
+        <mock-file
+          aria-hidden="true"
+          class="mr-2"
+          height="16"
+          role="img"
+          style="display: inline-block; fill: currentcolor; user-select: none; vertical-align: text-bottom;"
+          viewbox="0 0 16 16"
+          width="16"
+        />
+        No match for route. Return to 
+        <a
+          data-discover="true"
+          href="/list"
+        >
+          start page.
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
